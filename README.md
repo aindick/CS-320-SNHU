@@ -7,7 +7,7 @@ This is a repository for my work in CS 320 Software Test Automation &amp; QA.
 
 - How do I interpret user needs and incorporate them into a program?
 
-  Interpretting user needs can be difficult. As a developer, it is helpful to ask the client questions about the program they want. But sometimes clients don't even know complwtely what they want so it might take some guesswork to come up with the right solution. It is a good idea to break the needs of the user into small pieces and implement them one by one into code vs. trying to tackle it all at once. 
+  Interpretting user needs can be difficult. As a developer, it is helpful to ask the client questions about the program they want. But sometimes clients don't even know completely what they want so it might take some guesswork to come up with the right solution. It is a good idea to break the needs of the user into small pieces and implement them one by one into code vs. trying to tackle it all at once. 
   
 - How do I approach designing software?
 
